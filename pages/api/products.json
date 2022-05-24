@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "sunrise surf",
+      "price": "0.21",
+      "description": "best time to surf is before sunrise",
+      "image_url": "https://i.imgur.com/SYEdbv5.jpg",
+      "filename": "surf.png",
+      "hash": "QmX3a9Q6UnKn6GnmvxjZHCwxCpHGqUGNpQNTVygLQwW3ut"
+    }
+  ]
